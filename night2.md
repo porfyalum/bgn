@@ -14,7 +14,7 @@
 >_Introduction Video:_ https://www.youtube.com/watch?v=hQftUMnLZd8     
 >_Learn more:_ https://boardgamegeek.com/boardgame/153938
 
-*King of New York
+*King of New York*
 >_2-6 Players | 40'_     
 >There’s always something happening in the city that never sleeps. Maybe it’s the lights, maybe it’s the energy, or maybe it’s the giant monsters trying to demolish the place!     
 >_Introduction Video:_ https://www.youtube.com/watch?v=eZuazvGpEro     
