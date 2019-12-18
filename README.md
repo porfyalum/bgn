@@ -1,4 +1,4 @@
-##Board game nights:
+## Board game nights:
 
 Events will be scheduled on regular intervals.
 Each event will have a theme and only a few games will be available that match the theme.
