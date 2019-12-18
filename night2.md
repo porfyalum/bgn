@@ -1,4 +1,4 @@
-##It's a mad, mad race!
+## It's a mad, mad race!
 
 *Light Course:*
 
