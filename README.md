@@ -1,4 +1,5 @@
 ##Board game nights:
+
 Events will be scheduled on regular intervals.
 Each event will have a theme and only a few games will be available that match the theme.
 The games will be categorised based on the complecity.
@@ -24,3 +25,8 @@ The games will be categorised based on the complecity.
 >May last a bit longer than usual be prepared. Feel free to ask more about them first and look them up.
 >Will not have a feast available for every game night.
 
+| Available Nights |
+|-|
+|[Ghosts and Ghoulies. Oh my!](night1.md)| 
+|[It's a mad, mad race!](night2.md)|
+|[Strange women lyin' in ponds distributin' swords is no basis for a system of government.](night3.md)|
