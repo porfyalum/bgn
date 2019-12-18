@@ -1,4 +1,4 @@
-##Ghosts and Ghoulies. Oh my!
+## Ghosts and Ghoulies. Oh my!
 
 _*Suggested snack:*_
 
